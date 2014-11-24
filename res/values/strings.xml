@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practica6</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_play"/>
+    <string name="btn_pause"/>
+    <string name="dialog_set_name_title"/>
+    <string name="button_cancel"/>
+    <string name="button_save"/>
+    <string name="message_name"/>
+    <string name="dialog_confirm_title"/>
+    <string name="dialog_confirm_message"/>
+    <string name="button_delete"/>
+    <string name="now_playing_prefix"/>
+
+</resources>
